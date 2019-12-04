@@ -1,4 +1,5 @@
 # Sanity Gatsby Project Portfolio
+Created following this [video](https://www.youtube.com/watch?v=SLGkyodumKI)
 
 ## Run Local Gatsby Development
 1. Clone git Repo
