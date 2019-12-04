@@ -1,5 +1,7 @@
 # Sanity Gatsby Project Portfolio
-Created following this [video](https://www.youtube.com/watch?v=SLGkyodumKI)
+Created following this [video](https://www.youtube.com/watch?v=SLGkyodumKI).
+You can visit the Netlify deployed site [here](https://xenodochial-hawking-bc7f8d.netlify.com/).
+
 
 ## Run Local Gatsby Development
 1. Clone git Repo
