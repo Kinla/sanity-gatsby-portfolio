@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kinla/sanity-gatsby-portfolio/issues"
   },
-  "homepage": "https://github.com/Kinla/sanity-gatsby-portfolio#readme"
+  "homepage": "https://github.com/Kinla/sanity-gatsby-portfolio#readme",
+  "dependencies": {
+    "gatsby-cli": "^2.8.15"
+  }
 }
