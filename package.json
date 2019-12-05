@@ -1,0 +1,19 @@
+{
+  "name": "sanity-gatsby-portfolio",
+  "version": "1.0.0",
+  "description": "Created following this [video](https://www.youtube.com/watch?v=SLGkyodumKI)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinla/sanity-gatsby-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kinla/sanity-gatsby-portfolio/issues"
+  },
+  "homepage": "https://github.com/Kinla/sanity-gatsby-portfolio#readme"
+}
